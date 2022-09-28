@@ -1,0 +1,52 @@
+p {
+    font-family: Arial;
+  }
+
+  .Video-title{ 
+    font-weight: bold;
+    font-size: 18px;
+    width:300;
+    line-height: 24px;
+    margin-bottom: 5px;
+    
+  }
+
+  .video-stats{   
+    font-size: 14px;
+    color: rgb(96,96,96);
+    margin-top: 0;
+    margin-bottom: 20;
+    font-weight: bold;
+  }
+
+  .video-author{
+    font-size: 14px;
+    color: rgb(96,96,96);
+    margin-top: 0;
+    font-weight: bold;
+
+  }
+  .para{
+    font-size: 14px;
+    color: rgb(96,96,96);
+    font-weight: bold;
+    width: 300px;
+    line-height: 22px;
+    margin-top: 0;
+    margin-bottom: 100px;
+  }
+   .shop{
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227,65,64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+   }
+ 
+   .vivek:hover{
+    text-decoration: underline;
+    cursor: pointer;
+   }
